@@ -1,4 +1,15 @@
-.oglav { text-align: center;}
-h1 {
-    color: rgb(42, 54, 165);
+.ten {
+    box-shadow: 5px 5px 5px rgb(0, 3, 0);   
+}
+.back {
+    background-image: url("sea.jpg");
+}
+.back2 {
+    background-image: url("11.JPG");
+}
+p {
+    text-indent: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 25px;
 }
